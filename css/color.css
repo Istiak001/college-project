@@ -1,0 +1,35 @@
+.primary-bg{
+    background-color: #00b894;
+}
+
+.secondery-bg{
+    background-color: #fd79a8;
+}
+
+.optional-bg{
+    background-color: #fd79a8;
+}
+
+/* .light-bg{
+    background-color: #74b9ff;
+} */
+
+.f-color-white{
+    color: white;
+}
+
+.f-color-light{
+    color: #b2bec3;
+}
+
+.f-color-mid-dark{
+    color: #636e72;
+}
+
+.f-color-dark{
+    color: #2d3436;
+}
+
+.f-color-black{
+    color: #2d3436;
+}

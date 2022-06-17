@@ -2,20 +2,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap');
 
 /*
-            Font Family's
+           *** Font Family's ***
     font-family: 'Baloo Thambi 2', cursive;
     font-family: 'Raleway', sans-serif;
     font-family: 'Rubik', sans-serif; 
 */
 
-.ba{
+.font-baloo{
     font-family: 'Baloo Thambi 2', cursive;
 }
 
-.ra{
+.font-raleway{
     font-family: 'Raleway', sans-serif;
 }
 
-.ru{
+.font-rubik{
     font-family: 'Rubik', sans-serif;
+}
+
+/* Font Size */
+.fs-12{
+    font-size: 12px;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.fs-16{
+    font-size: 16px;
 }
