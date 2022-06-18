@@ -1,3 +1,30 @@
+/* Custom CSS */
 @import url(./font.css);
 @import url(./global.css); 
 @import url(./color.css);
+
+/* Top Header Secion */
+.t-header-hover{
+    transition: 0.5s;
+    font-weight: bold;
+}
+.t-header-hover:hover{
+    color: black;
+}
+/* Nav & Logo Section */
+.logo{
+    background-color: #01CBFF;
+    padding: 4px 7px;
+    font-weight: bold;
+    border-radius: 22px 3px 22px 3px;
+    border: 1px solid black;
+}
+.first-logo{
+    color: white;
+}
+.last-logo{
+    color: black;
+}
+.add-t-cart{
+    font-size: 20px;
+}

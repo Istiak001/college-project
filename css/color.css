@@ -1,9 +1,17 @@
 .primary-bg{
-    background-color: #00b894;
+    background-color: #01CBFF;
+}
+
+.primary-bg-h:hover{
+    background-color: #01CBFF;
 }
 
 .secondery-bg{
-    background-color: #fd79a8;
+    background-color: #4E8F9F;
+}
+
+.secondery-bg-h{
+    background-color: #4E8F9F;
 }
 
 .optional-bg{
@@ -14,8 +22,16 @@
     background-color: #74b9ff;
 } */
 
-.f-color-white{
-    color: white;
+.color-white{
+    color: white !important;
+}
+
+.color-green{
+    color: #A6FF00;
+}
+
+.color-w-h:hover{
+    color: #A6FF00 !important;
 }
 
 .f-color-light{
