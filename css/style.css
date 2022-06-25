@@ -11,6 +11,7 @@
 .t-header-hover:hover{
     color: black;
 }
+
 /* Nav & Logo Section */
 .logo{
     background-color: #01CBFF;
@@ -27,4 +28,62 @@
 }
 .add-t-cart{
     font-size: 20px;
+}
+
+/* Slaider Section */
+.s-icon{
+    padding: 10px 17px;
+    background-color: white;
+    border-radius: 50%;
+    color: salmon;
+}
+.s-icon i{
+    font-size: 44px;
+}
+
+/* Top Products */
+.product-c:hover{
+    background-color: #01CBFF;
+}
+.card{
+    border: none;
+}
+.product-c{
+    overflow: hidden;
+}
+.Big-c{
+    width: 60%;
+    height: 50%;
+}
+.product-c-img{
+    transition: all 0.3s;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transform: scale(1);
+}
+.product-c-img:hover{
+    transform: scale(1.1);
+}
+.cart-btn{
+    border-radius: 5px;
+    color: black;
+    padding: 7px 10px;
+    background-color: #A6FF00;
+    transition: transform .4s;
+}
+.cart-btn:hover{
+    color: white;
+    background-color: #4E8F9F;
+}
+
+/* Banner ADS secton */
+.mins-ag{
+    color: #01CBFF;
+}
+.ad-bg{
+    /* border: 1px solid #4E8F9F; */
+}
+.ad-bg:hover{
+    box-shadow: 2px 3px 4px 3px #4E8F9F;
 }

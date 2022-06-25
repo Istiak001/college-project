@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+mark{
+    background-color: #01CBFF;
+    color: white;
+}
+
+del{
+    font-size: 18px;
+}
+
 a{
     text-decoration: none;
     /* color: rgb(40, 9, 216); */
@@ -17,4 +26,5 @@ button{
 i{
     padding-right: 2px;
 }
+
 

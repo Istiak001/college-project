@@ -14,10 +14,6 @@
     background-color: #A6FF00;
 }
 
-.secondery-bg-h{
-    background-color: #4E8F9F;
-}
-
 .optional-bg{
     background-color: #fd79a8;
 }
@@ -32,6 +28,10 @@
 
 .color-green{
     color: #A6FF00;
+}
+
+.f-color-sk-b{
+    color: #4E8F9F;
 }
 
 .color-w-h:hover{
