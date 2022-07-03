@@ -3,10 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+p{
+    font-size: 18px;
+}
 
 mark{
-    background-color: #01CBFF;
+    background-color: #4E8F9F;
     color: white;
+}
+
+mark:hover{
+    background-color: #A6FF00;
 }
 
 del{
@@ -23,8 +30,5 @@ button{
     /* border: none; */
 }
 
-i{
-    padding-right: 2px;
-}
 
 
