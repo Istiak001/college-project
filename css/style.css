@@ -203,6 +203,16 @@ a:hover{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    border: 2px solid #80cd9d;
+    border: 1px solid #80cd9d;
+}
+.rvew{
+    border: 1px solid #309255;
+    border-radius: 10px;
+}
+.rvew:hover{
+    box-shadow: 0px 0px 15px 5px #80cd9d;
+}
+.rvew:hover .st-rv i{
+    color: goldenrod;
 }
 /* wh_s.png */
